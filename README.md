@@ -21,9 +21,9 @@ This repository is meant to help me learn about *forking* and *updating* reposit
 ### After working on code
 `git add .`
 
-`git push origin master:master`
-
 `git commit -m "Changed README.md"`
+
+`git push origin master:master`
 
 #### Sync with remote repository
 `git pull`
