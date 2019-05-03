@@ -7,6 +7,7 @@ This repository is meant to help me learn about *forking* and *updating* reposit
 #### Git setup for repository
 
 `git config --global user.name "<USER"`
+
 `git config --global user.email <EMAIL>`
 
 #### After working on code
