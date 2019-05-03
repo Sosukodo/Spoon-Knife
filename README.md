@@ -1,6 +1,6 @@
 ### Learning Git
 
-This repository is meant to provide guidance on *forking* and *updating* repositories on GitHub.
+This repository is meant to help me learn about *forking* and *updating* repositories on GitHub.
 
 ####Git setup for repository
 
