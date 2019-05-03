@@ -2,6 +2,8 @@
 
 This repository is meant to help me learn about *forking* and *updating* repositories on GitHub.
 
+[reference article](https://help.github.com/en/articles/fork-a-repo "reference article")
+
 #### Git setup for repository
 
 `git config --global user.name "<USER"`
