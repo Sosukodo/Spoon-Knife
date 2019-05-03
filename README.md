@@ -1,16 +1,24 @@
-### Learning Git
+## Learning Git
 
 This repository is meant to help me learn about *forking* and *updating* repositories on GitHub.
 
 [reference article](https://help.github.com/en/articles/fork-a-repo "reference article")
 
-#### Git setup for repository
+### Git setup for repository
+
+#### For global Git settings
 
 `git config --global user.name "<USER"`
 
 `git config --global user.email <EMAIL>`
 
-#### After working on code
+#### For local repository Git settings
+
+`git config user.name "<USER"`
+
+`git config user.email <EMAIL>`
+
+### After working on code
 `git add .`
 
 `git push origin master:master`
